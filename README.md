@@ -1,7 +1,7 @@
 # roleplay.gihub.io<!DOCTYPE html>
 <!-- 
 Сайт разработал: Logan
-Группа Вконтакте: frozzy_rp
+Группа Вконтакте: vk.com/frozzy_rp
 Ссылка: vk.com/montaro_west
 -->
 <html lang="ru">
