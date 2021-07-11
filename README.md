@@ -22,7 +22,7 @@
 					<li><a href="index.html">Главная</a></li>
 					<li><a target="_blank" href="#">Форум</a></li>
 					<li><a href="project.html">О проекте</a></li>
-					<li><a href="https://vk.com/atlanta_roleplay1">Группа VK</a></li>
+					<li><a href="https://vk.com/frozzy_rp">Группа VK</a></li>
 					<li><a href="faq.html">Помощь</a></li>
 					<li><a target="_blank" href="#">Донат</a></li>
 					<li><a href="start.html">Начать играть</a></li>
